@@ -14,7 +14,7 @@ A simple password generator built using React that allows users to create secure
 
 * React
 * JavaScript
-* CSS/Tailwind CSS (if used)
+* CSS/Tailwind CSS
 * Vite
 
 ## Installation
@@ -28,11 +28,12 @@ npm run dev
 
 ## Screenshots
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19933a51-6dfd-42f0-be6c-daa429e88f76" />
+
 
 ## Live Demo
 
-(Add your Vercel or Netlify link here after deployment)
+https://react-password-generator-qxcp-la6gazc15-kushagra-s-team.vercel.app/
 
 ## Author
 
